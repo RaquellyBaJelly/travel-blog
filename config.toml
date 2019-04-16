@@ -1,7 +1,7 @@
 baseURL = "https://www.raquelrae.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Bleach Example"
+title = "Raquel Rae #1"
 theme = "bleach-theme"
 
 [params]
