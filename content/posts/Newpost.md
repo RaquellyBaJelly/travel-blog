@@ -1,7 +1,7 @@
 ---
 title: "Breakfast at mean mug"
 date: 2019-06-08T00:00:01
-description: "Today I went to breakfast"
+description: "Today I went to lunch"
 image: "images/IMG_0683.jpg"
 tags: ["latest", "hugo", "example"]
 ---
